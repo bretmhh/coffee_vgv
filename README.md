@@ -15,17 +15,17 @@ Tests are organized in the same manner as the architecture.
 
 ## Notes
 - I would recommend focus on the robustness/architecture of the code. I did not spend ANY time styling. There would be a component library for that.
+- Second feature is elementary. If you really want to see it then I can do it when I'm back home.
 - I was limited on time, only had enough time before traveling for holidays (today) to implement the first feature.
 - The architecture is opinionated. Combined patterns aligning with Clean.
 - If I were to have started this back when the email was in my Spam, I would have easily completed this.
 - Only had roughly ~3 hours to get this point while packing and traveling in a car from South California to Northern California.
 
-## Running The Application
-Run these from the root directory of the project.
+## Running The Application (ios simulator and android(emulator))
 ```bash
 flutter run
 ```
-## Running The Tests
+## Running The Tests (first feature)
 ```bash
 flutter test
 ```
